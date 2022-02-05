@@ -41,11 +41,48 @@ Leyton-Brown, Kevin, and Yoav Shoham. _Essentials of Game Theory: A Concise, Mul
 Grading
 -------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Written assignment 1 | 25% |
-| Written assignment 2 | 25% |
-| Final exam | 50% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Written assignment 1
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Written assignment 2
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final exam
+{{< tdclose >}}
+{{< tdopen >}}
+50%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
   
 
@@ -56,12 +93,127 @@ Calendar
 
 We will spend a little more than a third of the term on individual decision theory, a little more than a third on game theory, and the rest of the time on the theory of social choice. In each part, we will start with the basic technical apparatus, but we will try to keep it simple, developing only as much of the technical framework as we need to raise the conceptual and philosophical questions that will be our main concern.
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction: What is rationality? |  |
-| {{< td-colspan 3 >}}**I. Individual decision theory**{{< /td-colspan >}} |||
-| 2-10 |  {{< br >}}{{< br >}} Preference, ignorance and risk {{< br >}}{{< br >}} Probability – subjective and objective {{< br >}}{{< br >}} Utility and value {{< br >}}{{< br >}} Causal decision theory {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Problem set 1 out 1 day after Ses #4 and due in Ses #6 {{< br >}}{{< br >}} Short paper 1 out 1 day after Ses #9 {{< br >}}{{< br >}}  |
-| {{< td-colspan 3 >}}**II. Game theory**{{< /td-colspan >}} |||
-| 11-19 |  {{< br >}}{{< br >}} The basic framework {{< br >}}{{< br >}} Nash Equilibrium and other solution concepts {{< br >}}{{< br >}} Game theory and individual decision theory {{< br >}}{{< br >}} Coordination games, bargaining and negotiation {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Short paper 1 due in Ses #12 {{< br >}}{{< br >}} Short paper 2 out 1 day after Ses #16 and due 2 days after Ses #19 {{< br >}}{{< br >}}  |
-| {{< td-colspan 3 >}}**III. Theory of collective choice**{{< /td-colspan >}} |||
-| 20-26 |  {{< br >}}{{< br >}} Defining social value in terms of individual value {{< br >}}{{< br >}} Arrow's theorem, and other impossibility results {{< br >}}{{< br >}} Interpersonal comparisons of utility {{< br >}}{{< br >}}  |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction: What is rationality?
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**I. Individual decision theory**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2-10
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Preference, ignorance and risk
+
+Probability – subjective and objective
+
+Utility and value
+
+Causal decision theory
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Problem set 1 out 1 day after Ses #4 and due in Ses #6
+
+Short paper 1 out 1 day after Ses #9
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**II. Game theory**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11-19
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+The basic framework
+
+Nash Equilibrium and other solution concepts
+
+Game theory and individual decision theory
+
+Coordination games, bargaining and negotiation
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Short paper 1 due in Ses #12
+
+Short paper 2 out 1 day after Ses #16 and due 2 days after Ses #19
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**III. Theory of collective choice**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20-26
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Defining social value in terms of individual value
+
+Arrow's theorem, and other impossibility results
+
+Interpersonal comparisons of utility
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

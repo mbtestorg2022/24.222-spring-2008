@@ -26,20 +26,185 @@ Leyton-Brown, Kevin, and Yoav Shoham. _Essentials of Game Theory: A Concise, Mul
 Readings
 --------
 
-| SES # | TOPICS | READINGS |
-| --- | --- | --- |
-| 1 | Introduction: What is rationality? | &nbsp; |
-| {{< td-colspan 3 >}}**I. Individual decision theory**{{< /td-colspan >}} |||
-| 2-10 | Preference, ignorance and risk | Resnik, chapters 1-3 |
-| Probability – subjective and objective | Jeffrey, chapters 1-5 |
-| Utility and value |  {{< br >}}{{< br >}} Resnik, chapter 4 {{< br >}}{{< br >}} Sen, Amartya K. "Rational Fools: A Critique of the Behavioural Foundations of Economic Theory." _Philosophy and Public Affairs_ 6, no. 4 (Summer 1977): 317-344. Reprinted as chapter 4 in: {{< br >}}{{< br >}} [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262192149) Sen, Amartya K. [_Choice, Welfare, and Measurement_](https://mitpress.mit.edu/9780262192149). Cambridge, MA: MIT Press, 1982. ISBN: 9780262192149. {{< br >}}{{< br >}}  |
-| Causal decision theory |  {{< br >}}{{< br >}} Lewis, David. "Causal Decision Theory." _Australasian Journal of Philosophy_ 59, no. 1 (March 1981): 5-30. {{< br >}}{{< br >}} For those who want to explore causal decision theory in more depth, see Joyce, especially chapters 2-5. {{< br >}}{{< br >}}  |
-| {{< td-colspan 3 >}}**II. Game theory**{{< /td-colspan >}} |||
-| 11-19 | The basic framework |  {{< br >}}{{< br >}} Resnik, chapter 5 {{< br >}}{{< br >}} Notes on games and models ([PDF]({{< baseurl >}}/resources/games_and_models)) {{< br >}}{{< br >}}  |
-| Nash Equilibrium and other solution concepts | Leyton-Brown and Shoham, chapters 1-5 |
-| Game theory and individual decision theory | &nbsp; |
-| Coordination games, bargaining and negotiation | Schelling, chapters 4-5 |
-| {{< td-colspan 3 >}}**III. Theory of collective choice**{{< /td-colspan >}} |||
-| 20-26 | Defining social value in terms of individual value | Resnik, chapter 6 |
-| Arrow's theorem, and other impossibility results |  {{< br >}}{{< br >}} Sen, Amartya K. "Rationality and Social Choice." _The American Economic Review_ 85, no. 1 (March 1995): 1-24. {{< br >}}{{< br >}} Gibbard, Allan. "Manipulation of Voting Schemes: A General Result." _Econometrica_ 41, no. 4 (July 1973): 587-601. {{< br >}}{{< br >}}  |
-| Interpersonal comparisons of utility | Sen, chapter 12
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction: What is rationality?
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**I. Individual decision theory**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2-10
+{{< tdclose >}}
+{{< tdopen >}}
+Preference, ignorance and risk
+{{< tdclose >}}
+{{< tdopen >}}
+Resnik, chapters 1-3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Probability – subjective and objective
+{{< tdclose >}}
+{{< tdopen >}}
+Jeffrey, chapters 1-5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Utility and value
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Resnik, chapter 4
+
+Sen, Amartya K. "Rational Fools: A Critique of the Behavioural Foundations of Economic Theory." _Philosophy and Public Affairs_ 6, no. 4 (Summer 1977): 317-344. Reprinted as chapter 4 in:
+
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262192149) Sen, Amartya K. [_Choice, Welfare, and Measurement_](https://mitpress.mit.edu/9780262192149). Cambridge, MA: MIT Press, 1982. ISBN: 9780262192149.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Causal decision theory
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Lewis, David. "Causal Decision Theory." _Australasian Journal of Philosophy_ 59, no. 1 (March 1981): 5-30.
+
+For those who want to explore causal decision theory in more depth, see Joyce, especially chapters 2-5.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**II. Game theory**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11-19
+{{< tdclose >}}
+{{< tdopen >}}
+The basic framework
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Resnik, chapter 5
+
+Notes on games and models ([PDF]({{< baseurl >}}/resources/games_and_models))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Nash Equilibrium and other solution concepts
+{{< tdclose >}}
+{{< tdopen >}}
+Leyton-Brown and Shoham, chapters 1-5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Game theory and individual decision theory
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Coordination games, bargaining and negotiation
+{{< tdclose >}}
+{{< tdopen >}}
+Schelling, chapters 4-5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**III. Theory of collective choice**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20-26
+{{< tdclose >}}
+{{< tdopen >}}
+Defining social value in terms of individual value
+{{< tdclose >}}
+{{< tdopen >}}
+Resnik, chapter 6
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Arrow's theorem, and other impossibility results
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Sen, Amartya K. "Rationality and Social Choice." _The American Economic Review_ 85, no. 1 (March 1995): 1-24.
+
+Gibbard, Allan. "Manipulation of Voting Schemes: A General Result." _Econometrica_ 41, no. 4 (July 1973): 587-601.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Interpersonal comparisons of utility
+{{< tdclose >}}
+{{< tdopen >}}
+Sen, chapter 12
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
